@@ -4,7 +4,7 @@ board_id: "bluemicro833"
 title: "BlueMicro833 Download"
 name: "BlueMicro833"
 manufacturer: "JPConstantineau"
-board_url: "http://nrf52.jpconstantineau.com/docs/bluemicro833_v1"
+board_url: "http://nrf52.jpconstantineau.com/docs/bluemicro833"
 board_image: "bluemicro833.jpg"
 date_added: 2021-10-15
 family: nrf52840
